@@ -66,10 +66,10 @@ Hello *%name* , Here my command list.
   after: `
 ──···────────────────···──
 
-Base Script : *R-TXZY-MD*
+Base Script : *DnzBotz*
 Recode Script : *Private*
 
- © R-TXZY-MD 
+ © DnzBotz 
 ${'```WhatsApp Multi Device```'}
 `,
 }
@@ -182,7 +182,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                         hydratedTemplate: {
                             imageMessage: message.imageMessage,
                             hydratedContentText: text.trim(),
-                            hydratedFooterText:'© R-TXZY-MD',
+                            hydratedFooterText:'© DnzBotz',
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Website',
