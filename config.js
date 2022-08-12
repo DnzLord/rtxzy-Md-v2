@@ -1,15 +1,15 @@
 //Ini untuk setting Bot//
 
 //『 Utama 』 //
-global.owner = ['6282291806573'] 
-global.mods = ['6282291806573'] 
-global.prems = ['6282291806573'] 
+global.owner = ['6285785694474'] 
+global.mods = ['6285785694474'] 
+global.prems = ['6285785694474'] 
 
 //『 Info Owner 』 //
-global.nameowner = 'Alya'
-global.numberowner = '6282291806573'
-global.instagram = 'https://instagram.com/DnzLord'
-global.github = 'https://github.com/BOTCAHX'
+global.nameowner = 'Jkz'
+global.numberowner = '6285785694474'
+global.instagram = 'https://instagram.com/Jaka_Dnz'
+global.github = 'https://github.com/DnzLord'
 global.dana = '6281335334848'
 global.pulsa = '6281335334848'
 global.gopay = '6285785694474'
