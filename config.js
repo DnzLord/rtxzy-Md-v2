@@ -17,8 +17,8 @@ global.gopay = '6285785694474'
 //『 Info Bot 』//
 global.namebot = 'Xiao Botz'
 global.gc = 'https://chat.whatsapp.com/CMg8SCzJILtCLxN0HNSseg'
-global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.web = 'https://instagram.com/Jaka_Dnz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = 'Sewa Bot 10k Permanen'
 
 //『 Tampilan Dan Lainnya 』//
 global.fotonya1 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
