@@ -6,7 +6,7 @@ global.mods = ['6285785694474']
 global.prems = ['6285785694474'] 
 
 //『 Info Owner 』 //
-global.nameowner = 'Jkz'
+global.nameowner = 'Xiaoyu'
 global.numberowner = '6285785694474'
 global.instagram = 'https://instagram.com/Jaka_Dnz'
 global.github = 'https://github.com/DnzLord'
@@ -15,7 +15,7 @@ global.pulsa = '6281335334848'
 global.gopay = '6285785694474'
 
 //『 Info Bot 』//
-global.namebot = 'DnzBotz'
+global.namebot = 'Xiao Botz'
 global.gc = 'https://chat.whatsapp.com/CMg8SCzJILtCLxN0HNSseg'
 global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -25,10 +25,10 @@ global.fotonya1 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-stu
 global.fotonya2 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© DnzBotz'
+global.wm = '© Xiao Botz'
 global.watermark = wm
-global.wm2 = '⫹⫺ DnzBotz'
-global.wm3 = '© DnzBotz'
+global.wm2 = '⫹⫺ Xiao Botz'
+global.wm3 = '© Xiao Botz'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -40,7 +40,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nDnzBotz'
+global.author = 'Bot WhatsApp\nXiao Botz'
 
 //『 Apikey 』 //
 global.APIs = { // API Prefix
