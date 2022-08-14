@@ -66,10 +66,10 @@ Hello *%name* , Here my command list.
   after: `
 ──···────────────────···──
 
-Base Script : *DnzBotz*
+Base Script : *Xiao Botz*
 Recode Script : *Private*
 
- © DnzBotz 
+ © Xiao Botz 
 ${'```WhatsApp Multi Device```'}
 `,
 }
